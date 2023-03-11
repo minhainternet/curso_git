@@ -1,4 +1,12 @@
+AULA 1
 git config --global user.name "Ricardo Silva"
 git config --global user.email "minhainternet@gmail.com"
 git init .
+git add comandos.txt
+git status
+git rm --cached .\comandos.txt
 
+AULA 2
+git commit -m "Iniciando repositorio"
+
+git commit -am "Iniciando repositorio"
