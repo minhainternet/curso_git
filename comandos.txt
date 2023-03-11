@@ -8,5 +8,5 @@ git rm --cached .\comandos.txt
 
 AULA 2
 git commit -m "Iniciando repositorio"
-
+# incluindo o arquivo e commitando (juntos)
 git commit -am "Iniciando repositorio"
